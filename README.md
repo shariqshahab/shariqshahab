@@ -1,4 +1,4 @@
-### Hi, I'm <a href="https://www.linkedin.com/in/fabrizio-cafolla/">Shariq Shahab</a> - Senior Software Engineer
+## Hi, I'm <a href="https://www.linkedin.com/in/fabrizio-cafolla/">Shariq Shahab</a> - Senior Software Engineer
 
 <!--
 **shariqshahab/shariqshahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shariq-shahab/)
